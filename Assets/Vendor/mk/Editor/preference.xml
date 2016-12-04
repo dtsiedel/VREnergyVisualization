@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SkyBoxPreference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <apiKey />
+  <skyBoxName>bg3.mat</skyBoxName>
+  <directory>Assets/Resources</directory>
+  <latitude>40.5997724</latitude>
+  <longitude>-75.3654369</longitude>
+  <imgSize>640</imgSize>
+</SkyBoxPreference>
