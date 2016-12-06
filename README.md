@@ -7,3 +7,5 @@ Uses C# and Unity to get the data from the server, construct a 3D environment fr
 See it in action here! (note that it is a lot more impressive when in VR):
 
 [![VR Demo](https://img.youtube.com/vi/BiBG86p_Umk/0.jpg)](https://www.youtube.com/watch?v=BiBG86p_Umk)
+
+See my partner Alex Van Heest's side of the code (which pulls data from the OSISoft Servers, manipulates it, and pushes it to a server for me to pull: https://github.com/alexvanheest/vr-energy-visualization
